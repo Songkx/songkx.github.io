@@ -8,7 +8,6 @@ keywords: hand-paintedworks, 结构素描
 
 ### 结构素描
 
-####
 
 ![](/images/posts/hand-paintedworks/pencilsketch/1.jpg)
 
