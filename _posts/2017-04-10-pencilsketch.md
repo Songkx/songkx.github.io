@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 结构素描
-categories: Hand Paintedworks
+categories: 手绘
 description: 结构素描
 keywords: hand-paintedworks, 结构素描
 ---

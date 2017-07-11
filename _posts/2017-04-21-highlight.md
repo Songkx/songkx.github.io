@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 高光画法
-categories: Hand Paintedworks
+categories: 手绘
 description: 高光画法
 keywords: hand-paintedworks, 高光画法
 ---

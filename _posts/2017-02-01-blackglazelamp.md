@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 黑釉灯
-categories: Products Design
+categories: 产品设计
 description: 黑釉灯
 keywords: Products Design, black glaze lamp
 ---

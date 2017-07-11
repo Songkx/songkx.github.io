@@ -1,7 +1,7 @@
 ---
 layout: post
 title: oppotnity
-categories: Graphic Artist Designer
+categories: 平面设计
 description: oppotnity
 keywords: Graphic Artist Designer, oppotnity
 ---
