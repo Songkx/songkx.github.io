@@ -10,7 +10,7 @@ keywords: Products Design, black glaze lamp
 
 #### 展示型展板
 
-   ![](/images/posts/productsdesign/blackglazelamp/1.jpg)
+![](/images/posts/productsdesign/blackglazelamp/1.jpg)
 
 #### 黑釉灯
 
