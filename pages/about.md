@@ -8,6 +8,6 @@ menu: 关于
 permalink: /about/
 ---
 
-宋可心
+![](/images/posts/i.jpg)
 
 
